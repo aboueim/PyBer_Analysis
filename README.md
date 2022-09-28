@@ -9,7 +9,6 @@ In this project, I aim to analyze ride-sharing data using several python librari
 ![This is an image](/PyBer_fare_summary.png)
 
 
-
 ## Summary
 
 
