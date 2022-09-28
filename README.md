@@ -6,7 +6,10 @@ In this project, I aim to analyze ride-sharing data using several python librari
 
 ## Results
 
+The line chart below displays the ride-sharing graph for three types of cities: rural, suburban, and urban, from 2019-01-01 to 2019-04-28. The lines reveal almost similar patterns overall (except for slight differences in minor fluctuations; for example, while ride-sharing fares in urban and suburban cities increase in early January, it decreases for rural cities. Besides, all ride-sharing fare values for the three city types fluctuate slightly and show minor peaks in this period (In late February for all three, and another rise for rural cities' sum of fares in early April). However, the total fares for each type of city differ meaningfully along this timeframe. While rural cities' total fares varies between 0 to 500 $USD in this period, total fares for suburban cities and urban cities fluctutae between 700 to 1500 and 1600 to 2500 $USD, respectively. The total fares for these 
+
 ![This is an image](/Analysis/PyBer_fare_summary.png)
+
 
 
 ## Summary
