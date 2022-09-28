@@ -6,7 +6,7 @@ In this project, I aim to analyze ride-sharing data using several python librari
 
 ## Results
 
-![This is an image](/PyBer_fare_summary.png)
+![This is an image](./PyBer_fare_summary.png)
 
 
 ## Summary
